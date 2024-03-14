@@ -1,28 +1,14 @@
-<h2>Flight Radar App </h2>
+<h2>Translate App </h2>
 
-This is an aircraft tracking radar system application. This Rapid API-based platform provides comprehensive details such as aircraft tail numbers, airline names, aircraft models, departure and arrival airports, among other information. Users can track aircraft in real time and access detailed information by clicking on aircraft icons.
-
-<h2>Toolkit Thunk project is an example</h2>
-
--Flight information comes live. </br>
--There are two views: List and Map.</br>
--When you hover over the icons, there is a detail information button.</br>
--With the Pagination method, the list view is divided into pages.</br>
--Time Format has been translated from unix time format.</br>
--Live data stream occurs every 5 seconds.</br>
+This is a translate application built using Redux Thunk. This app is similar to Google Translate. In this app users can easily translate text into multiple languages, copy translated text and convert text to speech.
 
 <h2>Libraries</h2>
 
 - @reduxjs/toolkit</br>
 - react-redux</br>
 - axios</br>
-- leaflet</br>
-- react-leaflet</br>
-- react-paginate</br>
-- bootstrap</br>
-- moment</br>
+- tailwind</br>
 
 <h3>Screen Gif</h3>
 
-![flightradar](https://github.com/begpan/translateApp/assets/145170180/54a26960-46da-4f1f-9352-9485335c6d20)
-
+![translate](https://github.com/begpan/translateApp/assets/145170180/d7efcf9e-2025-4b78-8c68-1157eb364759)
