@@ -23,3 +23,6 @@ This is an aircraft tracking radar system application. This Rapid API-based plat
 - moment</br>
 
 <h3>Screen Gif</h3>
+
+![flightradar](https://github.com/begpan/translateApp/assets/145170180/54a26960-46da-4f1f-9352-9485335c6d20)
+
